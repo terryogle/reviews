@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>eBay Reviews Widget — HealthyLine Outlet</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  body {
+    margin: 0;
+    font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+    background: #f5f9f8;
+    color: #182026;
+  }
+  .page-top {
+    background: #3b626b;
+    color: #fff;
+    padding: 24px 28px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+  .page-top h1 {
+    margin: 0 0 6px 0;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  .page-top p {
+    margin: 0;
+    font-size: 14px;
+    opacity: .9;
+  }
+  .wrap {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 32px 20px;
+  }
+  .badge {
+    display: inline-block;
+    background: #fff;
+    color: #3b626b;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 10px;
+    border: 1px solid rgba(255,255,255,0.3);
+  }
+</style>
+</head>
+<body>
+
+<div class="page-top">
+  <h1>HealthyLine Outlet <span class="badge">180 Reviews</span></h1>
+  <p>Verified eBay Reviews · 100% Positive · 1,305 Score · Top-Rated Seller</p>
+</div>
+
+<div class="wrap">
+  <div class="hlo-ebay-reviews" data-layout="carousel" data-src="data/reviews.json"></div>
+</div>
+
+<script src="widget.js" defer></script>
+
+</body>
+</html>

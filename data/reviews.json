@@ -1,0 +1,3374 @@
+{
+  "store": {
+    "name": "HealthyLine Outlet",
+    "ebay_username": "healthylineoutlet",
+    "ebay_profile_url": "https://www.ebay.com/fdbk/feedback_profile/healthylineoutlet?filter=feedback_page%3ARECEIVED_AS_SELLER",
+    "ebay_store_url": "https://www.ebay.com/usr/healthylineoutlet",
+    "website_url": "https://healthylineoutlet.com",
+    "member_since": "Feb 2013",
+    "feedback_score": 1305,
+    "total_seller_reviews": 180,
+    "total_all_feedback": 1579,
+    "items_sold": "3,100+",
+    "positive_percent": 100.0,
+    "top_rated_seller": true,
+    "dsr": {
+      "accurate_description": 5.0,
+      "shipping_cost": 5.0,
+      "shipping_speed": 5.0,
+      "communication": 5.0
+    },
+    "last_synced": "2026-11-05T12:00:00Z"
+  },
+  "catalog": [
+    {
+      "id": 2332537,
+      "name": "American Choice 7428 Mat Best Deal",
+      "slug": "american-choice-7428-mat-best-deal",
+      "sku": "AC-Mat",
+      "permalink": "https://healthylineoutlet.com/product/american-choice-7428-mat-best-deal/",
+      "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/American-Choice-Mat-600x600.jpg",
+      "price": 180.0
+    },
+    {
+      "id": 2332533,
+      "name": "TAO 4018 Chair with PEMF Best Deal",
+      "slug": "tao-4018-chair-best-deal",
+      "sku": "TAO-Mat",
+      "permalink": "https://healthylineoutlet.com/product/tao-4018-chair-best-deal/",
+      "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/11/Tao-4018-1000x1000-1-600x600.jpg",
+      "price": 250.0
+    },
+    {
+      "id": 2332508,
+      "name": "Mesh JT 7224 Mat Light Best Deal",
+      "slug": "mesh-jt-7224-mat-best-deal",
+      "sku": "MESH-Mat-Best-Deal",
+      "permalink": "https://healthylineoutlet.com/product/mesh-jt-7224-mat-best-deal/",
+      "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/11/1000x1000-1-600x600.jpg",
+      "price": 100.0
+    },
+    {
+      "id": 2332451,
+      "name": "Amethyst 1818 Far Infrared Heating Pad",
+      "slug": "amethyst-far-nfrared-heating-pad",
+      "sku": "TAO-Mat-1818",
+      "permalink": "https://healthylineoutlet.com/product/amethyst-far-nfrared-heating-pad/",
+      "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/Tao-1818-1000x1000-1-600x600.jpg",
+      "price": 80.0
+    },
+    {
+      "id": 2332419,
+      "name": "Portable Heated Gemstone Pads with Power-Bank",
+      "slug": "portable-heated-gemstone-pads-with-power-bank",
+      "sku": "MESH-Mat",
+      "permalink": "https://healthylineoutlet.com/product/portable-heated-gemstone-pads-with-power-bank/",
+      "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2022/03/Portable-Series-600x600.jpg",
+      "price": 65.0
+    },
+    {
+      "id": 2332301,
+      "name": "American Choice Mat",
+      "slug": "american-choice-mat",
+      "sku": "AC-Mat",
+      "permalink": "https://healthylineoutlet.com/product/american-choice-mat/",
+      "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/American-Choice-Mat-600x600.jpg",
+      "price": 65.0
+    },
+    {
+      "id": 2332180,
+      "name": "SOFT Mat",
+      "slug": "soft-mat",
+      "sku": "SOFT-Mat",
+      "permalink": "https://healthylineoutlet.com/product/soft-mat/",
+      "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/SOFT-7224-1000x1000-1-600x600.png",
+      "price": 160.0
+    },
+    {
+      "id": 2332055,
+      "name": "Rainbow Chakra Mat",
+      "slug": "rainbow-chakra-mat",
+      "sku": "Rainbow-Mat",
+      "permalink": "https://healthylineoutlet.com/product/rainbow-chakra-mat/",
+      "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/Rainbow-7428-1000x1000-3-600x600.jpg",
+      "price": 200.0
+    },
+    {
+      "id": 2331990,
+      "name": "TAO Mat",
+      "slug": "tao-mat",
+      "sku": "TAO-Mat",
+      "permalink": "https://healthylineoutlet.com/product/tao-mat/",
+      "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/TAO-7224-1000x1000-1-600x600.png",
+      "price": 55.0
+    },
+    {
+      "id": 2331950,
+      "name": "Mesh JT Mat",
+      "slug": "mesh-jt-mat",
+      "sku": "MESH-Mat",
+      "permalink": "https://healthylineoutlet.com/product/mesh-jt-mat/",
+      "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/MESH-1000X1000-600x600.jpg",
+      "price": 60.0
+    },
+    {
+      "id": 2331903,
+      "name": "Platinum Mat",
+      "slug": "platinum-mat",
+      "sku": "Platinum-Mat",
+      "permalink": "https://healthylineoutlet.com/product/platinum-mat/",
+      "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/Platinum-1000x1000-1-600x600.jpg",
+      "price": 400.0
+    },
+    {
+      "id": 2331850,
+      "name": "TAJ Mat",
+      "slug": "taj-mat",
+      "sku": "TAJ-Mat",
+      "permalink": "https://healthylineoutlet.com/product/taj-mat/",
+      "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/Taj-7224-1000x1000-1-600x600.png",
+      "price": 140.0
+    },
+    {
+      "id": 2331738,
+      "name": "Jet Mat",
+      "slug": "jet-mat",
+      "sku": "Jet-PhP",
+      "permalink": "https://healthylineoutlet.com/product/jet-mat/",
+      "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/09/Jet-1000x1000-1-600x600.jpg",
+      "price": 170.0
+    },
+    {
+      "id": 2330263,
+      "name": "Mesh JT Mat 3220 – Light (Worth $97)",
+      "slug": "mesh-jt-mat-3220-light-free-with-purchases-of-750",
+      "sku": "014-mJT-3220-L-2",
+      "permalink": "https://healthylineoutlet.com/product/mesh-jt-mat-3220-light-free-with-purchases-of-750/",
+      "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2018/05/MESH-3220-Light_2-600x600.jpg",
+      "price": 83.0
+    },
+    {
+      "id": 2330235,
+      "name": "Carrying case",
+      "slug": "carrying-case",
+      "sku": "",
+      "permalink": "https://healthylineoutlet.com/product/carrying-case/",
+      "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2024/06/Carrying-case-hlo-600x600.jpg",
+      "price": 1.0
+    }
+  ],
+  "reviews": [
+    {
+      "id": "ebay-3306e2c6ce",
+      "rating": 5,
+      "text": "Absolutely fantastic and arrived better than expected! I’ve previously used the taj mat and have been wanting to try out the rainbow mat for quite some time. This thing is super well built and comfortable, I’m extremely impressed with the quality of healthy line mats. They work! Buy one and start healing!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past 6 months",
+      "tags": [
+        "Pain Relief & Sleep",
+        "PEMF & Infrared"
+      ],
+      "photo": "https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/UHgAAeSw9x1qvDtA/$_1.JPG?set_id=8800005007",
+      "seller_reply": null,
+      "item_title": null,
+      "product": {
+        "name": "Rainbow Chakra Mat",
+        "slug": "rainbow-chakra-mat",
+        "url": "https://healthylineoutlet.com/product/rainbow-chakra-mat/",
+        "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/Rainbow-7428-1000x1000-3-600x600.jpg"
+      },
+      "featured": true
+    },
+    {
+      "id": "ebay-5eca67ad46",
+      "rating": 5,
+      "text": "Such a great deal! These PEMF TAJ mats are a Godsend for chronic trigger point flare ups spanning from head to lower back. I’ve never slept or felt better. This is my second one. My husband stole my first mat, so I had to get a new one. Healthyline’s “used” mats are legit like new down to accessories & the original box & protective plastic the mats come in. Highly recommend!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past 6 months",
+      "tags": [
+        "Pain Relief & Sleep",
+        "Like-New Condition",
+        "PEMF & Infrared"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": {
+        "name": "TAJ Mat",
+        "slug": "taj-mat",
+        "url": "https://healthylineoutlet.com/product/taj-mat/",
+        "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/Taj-7224-1000x1000-1-600x600.png"
+      },
+      "featured": true
+    },
+    {
+      "id": "ebay-38e5402ad0",
+      "rating": 5,
+      "text": "Amazing fast shipping, item is fantastic, better than expected, thank you so much for the opportunity and will definitely recommend! Top notch! 😁",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past month",
+      "tags": [
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": true
+    },
+    {
+      "id": "ebay-d0eaf27000",
+      "rating": 5,
+      "text": "jt mesh mat is working well, full body chronic pain condition with fibro and muscular/bone degenerative condition as well as sciatica/scoliosis etc .... and i use the healthyline pad 8-10 hours everyday at 145*, has a penetrating heat without the \"burn\" or sting, helps with my restless leg, helps keep legs and lower back loose for when i have to actually leave the house, the relief is real and this heating pad is a must have for anyone who relates to all that.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Pain Relief & Sleep",
+        "Like-New Condition",
+        "PEMF & Infrared"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": {
+        "name": "Mesh JT Mat",
+        "slug": "mesh-jt-mat",
+        "url": "https://healthylineoutlet.com/product/mesh-jt-mat/",
+        "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/MESH-1000X1000-600x600.jpg"
+      },
+      "featured": true
+    },
+    {
+      "id": "ebay-56c8668d25",
+      "rating": 5,
+      "text": "The Item was like new and it came in the original box and packaging. The customer service was great. I had several questions which they responded to quickly and they followed up to ensure that everything was perfect and I was completely happy with the product.",
+      "buyer": "7***1 (64)",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping",
+        "Customer Support"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine Far Infrared Heated Memory Foam Pillow with PEMF Photons for Pain",
+      "product": {
+        "name": "Far Infrared Heated Memory Foam Pillow (PEMF + Photon)",
+        "slug": "memory-foam-pillow",
+        "url": "https://healthylineoutlet.com/shop/?s=pillow",
+        "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/Tao-1818-1000x1000-1-600x600.jpg"
+      },
+      "featured": true
+    },
+    {
+      "id": "ebay-f49fbb1078",
+      "rating": 5,
+      "text": "If you are on the fence about buying, please take my word for it and make the buy! I received a message with pics of my mat and shipping label, and from pressing \"buy now\" to having the mat in hand was literally under 48 hours - amazing!! Mat came with brand new controller and manuals, plus, the trade-in offer makes this a no brainer. The mat design itself is wonderful - much more than just a heat mat. It is a truly luxurious experience. Highly recommend this seller and their products!!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past year",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping",
+        "PEMF & Infrared"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": true
+    },
+    {
+      "id": "ebay-69bf5fe7b5",
+      "rating": 5,
+      "text": "I received my HealthyLine mat quickly from this vendor, it was in good condition with all working parts, carrying case and mat cover. I've been using it for about two weeks to make sure it's working properly. I had a little trouble adjusting to the controller and asked a question about it to HealthyLine Outlet, which was answered promptly. All in all I'm quite satisfied with my purchase and would recommend HealthyLine Outlet to anyone who wants to try PEMF at a reasonable price.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past 6 months",
+      "tags": [
+        "Pain Relief & Sleep",
+        "Like-New Condition",
+        "Fast Shipping",
+        "PEMF & Infrared"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": {
+        "name": "Platinum Mat",
+        "slug": "platinum-mat",
+        "url": "https://healthylineoutlet.com/product/platinum-mat/",
+        "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/Platinum-1000x1000-1-600x600.jpg"
+      },
+      "featured": true
+    },
+    {
+      "id": "ebay-0749b3f193",
+      "rating": 5,
+      "text": "Came looking like a brand new mat! Works well and gives me the best rest! I see significant improvement in my pain caused by scoliosis and spina bifida. Arrived right on time. Highly recommend.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past 6 months",
+      "tags": [
+        "Pain Relief & Sleep",
+        "Like-New Condition"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": true
+    },
+    {
+      "id": "ebay-b5d62a27fc",
+      "rating": 5,
+      "text": "BETTER THAN DESCRIBED / VERY WELL PACKAGED / COULD NOT TELL FROM A NEW ONE / I WAITED TWO MONTHS TO REVIEW IN ORDER TO KNOW HOW WELL IT WORKS, IT HAS ELIMINATED MY SCIATIC NERVE PAIN AND THE ARTHRITIS IN MY NECK, I HAVE FULL RANGE OF MOTION NOW. / BEST PURCHASE EVER / GREAT SELLER AND BEST PRICE.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past year",
+      "tags": [
+        "Pain Relief & Sleep",
+        "Like-New Condition"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": true
+    },
+    {
+      "id": "ebay-1ef10785e1",
+      "rating": 5,
+      "text": "Someone call the fire dept. This seller is on fire. Great Product and just as described with lightning fast delivery. I really love these products and sleep with the FIR mat each night... to help with detox and health. Never put that fire out!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past year",
+      "tags": [
+        "Pain Relief & Sleep",
+        "Fast Shipping",
+        "PEMF & Infrared"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-d5f243d3f8",
+      "rating": 5,
+      "text": "Perfect! Great communication, packaging, speedy delivery and matched description. Using it right now!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past 6 months",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping",
+        "Customer Support"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-f5ad3588f8",
+      "rating": 5,
+      "text": "Excellent! Super fast shipping, great communication, great product. My 2nd purchase, and every time has been flawless.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past 6 months",
+      "tags": [
+        "Fast Shipping",
+        "Customer Support"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-324dc66e61",
+      "rating": 5,
+      "text": "Thank you for this beautiful product! Item was like new: manual and packaged beautifully. Item arrived expeditiously.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past 6 months",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-2fb68031d3",
+      "rating": 5,
+      "text": "I was astonished by not only the mat itself, but all that was included with it. And I want to say thank you very very much to HealthyLine Outlet for your great quality and service. I even received the package two days early. I slept on it for the first time last night and it seems I was asleep by the time my head hit the pillow. Superior sellers, and I will be back!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Pain Relief & Sleep",
+        "Fast Shipping",
+        "Customer Support",
+        "PEMF & Infrared"
+      ],
+      "photo": null,
+      "seller_reply": "Thank you!",
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-c91a03a045",
+      "rating": 5,
+      "text": "If I could, I'd give this seller 10 stars! Both purchases I have made from them have been exemplary. I really am happy with my mat and my pad. Not only was it a pleasure opening the packages, there was a lot of care put in, along with extras I didn't expect. I am very satisfied and look forward to doing business with them again soon. Top Sellers!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": "Thank you very much! We are trying to make our customers happy and healthy! Please enjoy!",
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-25e6ce69f4",
+      "rating": 5,
+      "text": "Unit is just like new! Great seller support, I called for info, then hung up to send an email instead. Before I finished the email, seller had called ME to answer my questions. Great deal on eBay too!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Customer Support"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-bcc4873aca",
+      "rating": 5,
+      "text": "Item arrived as described from recommended seller. A+",
+      "buyer": "t***o (988)",
+      "verified": true,
+      "period": "Past year",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine Far Infrared Heated Memory Foam Pillow with PEMF Photons for Pain",
+      "product": {
+        "name": "Far Infrared Heated Memory Foam Pillow (PEMF + Photon)",
+        "slug": "memory-foam-pillow",
+        "url": "https://healthylineoutlet.com/shop/?s=pillow",
+        "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/Tao-1818-1000x1000-1-600x600.jpg"
+      },
+      "featured": false
+    },
+    {
+      "id": "ebay-f0ba18f50d",
+      "rating": 5,
+      "text": "5-Stars quality, condition, value, appearance, shipping. My daughter's back pain healed. tyvm",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past year",
+      "tags": [
+        "Pain Relief & Sleep",
+        "Like-New Condition",
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-31c4395237",
+      "rating": 5,
+      "text": "Arrived quickly, & in perfect condition. Helpful communication from seller, with pictures of item shipped.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past year",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping",
+        "Customer Support"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-18576abc14",
+      "rating": 5,
+      "text": "Very good condition and seller sent me helpful information - would purchase from them again!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past 6 months",
+      "tags": [
+        "Like-New Condition",
+        "Customer Support"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-df9f18e001",
+      "rating": 5,
+      "text": "Great product, fantastic price! It works beautifully and seems like new, maybe even never used. The seller is straightforward with product details and I'm very pleased with the mat's quality and condition. Another plus is the speedy delivery.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-5c37d2396e",
+      "rating": 5,
+      "text": "If I could, I would give 10 stars. This was a refurbished item that arrived quickly, and in better condition than I could have imagined. It was like New... maybe it was. I am extremely pleased with ordering this item.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-da96c9c3f5",
+      "rating": 5,
+      "text": "For a used item, it arrived looking like brand new. Arrived very quickly. Dog laid on it already. Extremely glad to have located this seller and excited to have this product help my dog live better.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": "Please enjoy!",
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-0388be4382",
+      "rating": 5,
+      "text": "The best thing about this model is that it is small enough to move to different rooms, but big enough to do half my body length at one time. This truly works for a variety of conditions. This is an excellent well-made infrared mat for a great price.",
+      "buyer": "jacknjunior",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "PEMF & Infrared"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine Mesh 3220 Tourmaline Jade Mat Negative Ions Spa Heat Therapy Pad",
+      "product": {
+        "name": "Mesh JT Mat 3220 – Light (Worth $97)",
+        "slug": "mesh-jt-mat-3220-light-free-with-purchases-of-750",
+        "url": "https://healthylineoutlet.com/product/mesh-jt-mat-3220-light-free-with-purchases-of-750/",
+        "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2018/05/MESH-3220-Light_2-600x600.jpg"
+      },
+      "featured": false
+    },
+    {
+      "id": "ebay-15917ca1ea",
+      "rating": 5,
+      "text": "Easy to use well constructed healing mat. Great healing mat with multiple features. Quality product and easy to use.",
+      "buyer": "wshimer123",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Pain Relief & Sleep"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine Platinum 3220 Heating Pad with Changeable PEMF Wave FIR Photon Light",
+      "product": {
+        "name": "Platinum Mat",
+        "slug": "platinum-mat",
+        "url": "https://healthylineoutlet.com/product/platinum-mat/",
+        "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/Platinum-1000x1000-1-600x600.jpg"
+      },
+      "featured": false
+    },
+    {
+      "id": "ebay-ae57fc4075",
+      "rating": 5,
+      "text": "Good product and great price. This gives me the chance to try this technology before deciding whether or not to purchase a larger more expensive mat.",
+      "buyer": "bend2585",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine Platinum 3220 Heating Pad with Changeable PEMF Wave FIR Photon Light",
+      "product": {
+        "name": "Platinum Mat",
+        "slug": "platinum-mat",
+        "url": "https://healthylineoutlet.com/product/platinum-mat/",
+        "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/Platinum-1000x1000-1-600x600.jpg"
+      },
+      "featured": false
+    },
+    {
+      "id": "ebay-fbb8d33f86",
+      "rating": 5,
+      "text": "great ebayer! fast shipping! highly recommended",
+      "buyer": "e***s (2317)",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine TAO Mat Amethyst Tourmaline Gemstone Heating Pad 72''x24''",
+      "product": {
+        "name": "TAO Mat",
+        "slug": "tao-mat",
+        "url": "https://healthylineoutlet.com/product/tao-mat/",
+        "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/TAO-7224-1000x1000-1-600x600.png"
+      },
+      "featured": false
+    },
+    {
+      "id": "ebay-9f6b6e9e9d",
+      "rating": 5,
+      "text": "Like new 'Bio Mat' with crystals in it. Easy to use, good discount from new price, free shipping and great service. Very dependable seller.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping",
+        "Customer Support",
+        "PEMF & Infrared"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": {
+        "name": "SOFT Mat",
+        "slug": "soft-mat",
+        "url": "https://healthylineoutlet.com/product/soft-mat/",
+        "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/SOFT-7224-1000x1000-1-600x600.png"
+      },
+      "featured": false
+    },
+    {
+      "id": "ebay-0d5061c38e",
+      "rating": 5,
+      "text": "Mat appears brand new, came with clear and thorough instructions, works well for this whole family of athletes.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-048a4c501d",
+      "rating": 5,
+      "text": "Communication from seller was prompt and detailed about my order. Very helpful and kind with support if needed. Item in great condition and packed like new. Thanks so much!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Customer Support"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-c85d68d366",
+      "rating": 5,
+      "text": "Arrived today, cannot wait to try this tonight. Actually received more than what was advertised. The mat covers are very nice. Well pleased with my purchase. Fast shipping. Thank you.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": "Please enjoy!",
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-f7dbe41b54",
+      "rating": 5,
+      "text": "This purchase didn’t quite work out due to a delivery issue, but the company made it right and quickly, and I’ve had other orders from them shipped very promptly. I can recommend them without reservation.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-509107d4da",
+      "rating": 5,
+      "text": "Excellent communication and fast shipping. My mat was still in plastic and in perfect condition. Highly recommended seller. A+++",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping",
+        "Customer Support"
+      ],
+      "photo": null,
+      "seller_reply": "Please enjoy!",
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-aca98f2340",
+      "rating": 5,
+      "text": "THIS mat is amazing!! From the service, delivery and product... top notch!! I would buy from them again, in a heartbeat!!!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Customer Support"
+      ],
+      "photo": null,
+      "seller_reply": "Thank you! Please enjoy!",
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-8e5555a0db",
+      "rating": 5,
+      "text": "Works perfectly, looks in brand new condition, seller communication top notch, and item received very quickly. Thank you!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping",
+        "Customer Support"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-adafbefeed",
+      "rating": 5,
+      "text": "Wonderful seller! Excellent product, arrived in record time and in perfect condition. Purchase with confidence! Thank you so much!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": "Thank you for the feedback! Please enjoy!",
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-4ee6f2f2d9",
+      "rating": 5,
+      "text": "Great quality, in great condition, great value for the discounted price, and appearance is exactly as advertised. Happy customer here! Thanks again",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-1f26b8d71a",
+      "rating": 5,
+      "text": "Always a pleasure buying from you guys!! Amazing products that help heal. 🙏",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Pain Relief & Sleep"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-a90e16851f",
+      "rating": 5,
+      "text": "I have used this brand for many years. I have also given these as gifts. An absolutely extraordinary product.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-25b1ed9872",
+      "rating": 5,
+      "text": "Quick ship. Very well packaged. As described. Both kinds of control remotes. Clean. Works as described. 2nd Mat purchased. Came with catalog. May get a 3rd Mat as a gift. Thanks",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-67e1e97bef",
+      "rating": 5,
+      "text": "Seller was great, love the item!! UPS delivered my package to a wrong address, and Seller was super responsive to me and contacted UPS immediately — whoever got my package dropped it off on my porch a couple days later!!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Customer Support"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-7fa289e44f",
+      "rating": 5,
+      "text": "This is pretty amazing! Great communication from seller, phenomenal product. Works great. I may order another. Pretty happy with it.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past year",
+      "tags": [
+        "Customer Support"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-d513c3e481",
+      "rating": 5,
+      "text": "Prompt delivery and as described. I am pleased with the product and transaction.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past year",
+      "tags": [
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-92c557f80d",
+      "rating": 5,
+      "text": "Well packed, great communication, product appears brand new!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Customer Support"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-a831b7a757",
+      "rating": 5,
+      "text": "Item as described, looks brand new, great price, super fast shipping, would buy from this seller again",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-08a3470ffd",
+      "rating": 5,
+      "text": "Love it!!! It doesn’t have the new smell as I was hoping and it works perfectly! Thank you!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-64af942107",
+      "rating": 5,
+      "text": "Quick shipping, item even better than expected!! Thanks!! ✨ この度はどうもありがとうございました！とても素晴らしいお取引ができました。 ✨",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-70de7625f5",
+      "rating": 5,
+      "text": "On time delivery. I had a problem with the controller and they have addressed it with no hesitation.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Customer Support"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-54ba97c5e0",
+      "rating": 5,
+      "text": "Wonderful product and I am using it on myself as well as my Reiki clients on massage table. It provides a soothing penetrating warmth and a boost from the crystals included in the mat. I absolutely love the quality of this product and know I will get good use for many years to come.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Pain Relief & Sleep",
+        "PEMF & Infrared"
+      ],
+      "photo": null,
+      "seller_reply": "Please enjoy!",
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-59f1d2c31c",
+      "rating": 5,
+      "text": "Absolutely LOVE IT!!! I can feel the healing effects! It’s AMAZING!!! Highly recommend!!!! 💕💕💕",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Pain Relief & Sleep"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-c0113d9e78",
+      "rating": 5,
+      "text": "I absolutely love this product and I’m super thrilled to have it, thank you thank you thank you!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-087c44afa7",
+      "rating": 5,
+      "text": "Thank you! Fast delivery and great value.",
+      "buyer": "n***7 (3583)",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "American Choice FIR Infrared Amethyst Heating Pad Pain Relief 74 x 28",
+      "product": {
+        "name": "American Choice 7428 Mat Best Deal",
+        "slug": "american-choice-7428-mat-best-deal",
+        "url": "https://healthylineoutlet.com/product/american-choice-7428-mat-best-deal/",
+        "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/American-Choice-Mat-600x600.jpg"
+      },
+      "featured": false
+    },
+    {
+      "id": "ebay-b6adfb9484",
+      "rating": 5,
+      "text": "Perfect thanks!",
+      "buyer": "m***e (474)",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine Far Infrared Heated Memory Foam Pillow with PEMF Photons for Pain",
+      "product": {
+        "name": "Far Infrared Heated Memory Foam Pillow (PEMF + Photon)",
+        "slug": "memory-foam-pillow",
+        "url": "https://healthylineoutlet.com/shop/?s=pillow",
+        "thumbnail": "https://healthylineoutlet.com/wp-content/uploads/2025/10/Tao-1818-1000x1000-1-600x600.jpg"
+      },
+      "featured": false
+    },
+    {
+      "id": "ebay-884fe81696",
+      "rating": 5,
+      "text": "Amazing seller! Super fast shipping! A++++++",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Past 6 months",
+      "tags": [
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-185ef4bca6",
+      "rating": 5,
+      "text": "Fast. Correct. Penetrating Infrared heat.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "PEMF & Infrared"
+      ],
+      "photo": null,
+      "seller_reply": "Please enjoy!",
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-scraped-0000",
+      "rating": 5,
+      "text": "If you are on the fence about buying, please take my word for it and make the buy! I received a message with pics of my mat and shipping label, and from pressing \"buy now\" to having the mat in hand was literally under 48 hours- amazing!! Mat came with brand new controller and manuals, plus, the trade-in offer makes this a no brainer. The mat design itself is wonderful- much more than just a heat mat. It is a truly luxurious experience. Highly recommend this seller and their products!!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Verified Buyer",
+        "Matched to Models",
+        "Top Rated"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-scraped-0001",
+      "rating": 5,
+      "text": "Seller was great, love the item!! But UPS was a nightmare, they delivered my package to a wrong address, the photo of delivery was not my porch, and then gave both me and the seller the run around while trying to get a case opened for the missing package. Seller was super responsive to me and contacted UPS immediately, the problem was all with UPS, and luckily resolved without them, whoever got my package took it upon themselves to drop it off on my porch a couple days later!!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer",
+        "Top Rated"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-scraped-0002",
+      "rating": 5,
+      "text": "Item was ordered on 10/17. After not receiving it and making attempts to contact the seller, it was discovered that a technical mishap prevented them from sending it out by the original estimated shipping date. Customer Service did reach out to me to apologize for their error and rescheduled a new delivery; item was then received on 10/31. I appreciated the apology and their follow through; based on that I would recommend them to other buyers.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer",
+        "Matched to Models",
+        "Top Rated"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-scraped-0003",
+      "rating": 5,
+      "text": "Edited: Item was received on 10/31. After reaching out phone calls and emails, I was able to arrange via Customer Service a new shipping date. Item arrived well packaged, in almost perfect condition and is working well. Thank you Customer Service for working with me to resolve this unfortunate issue and ensure that I received my item. After seeing how the company responded to this mishap, I would feel comfortable ordering from them again.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Pain Relief & Sleep",
+        "Verified Buyer",
+        "Top Rated"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-scraped-0004",
+      "rating": 5,
+      "text": "Such a great deal! These PEMF TAJ mats are a Godsend for chronic trigger point flare ups spanning from head to lower back. I've never slept or felt better. This is my second one. My husband stole my first mat, so I had to get a new one. Healthyline's \"used\" mats are legit like new down to accessories & the original box & protective plastic the mats come in. Highly recommend!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Pain Relief & Sleep",
+        "Verified Buyer",
+        "Like-New Condition",
+        "Matched to Models",
+        "Top Rated"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": {
+        "name": "HealthyLine TAJ Mat"
+      },
+      "featured": false
+    },
+    {
+      "id": "ebay-scraped-0005",
+      "rating": 5,
+      "text": "Absolutely fantastic and arrived better than expected! I've previously used the taj mat and have been wanting to try out the rainbow mat for quite some time. This thing is super well built and comfortable, I'm extremely impressed with the quality of healthy line mats. They work! Buy one and start healing!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Pain Relief & Sleep",
+        "Verified Buyer",
+        "Matched to Models",
+        "Top Rated"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": {
+        "name": "HealthyLine TAJ Mat"
+      },
+      "featured": false
+    },
+    {
+      "id": "ebay-scraped-0006",
+      "rating": 5,
+      "text": "The Item was like new and it came in the original box and packaging. The costumer service was great. I had several questions which they responded to quickly to and they followed up to ensure that everything was prefect and I was completely happy with the product.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Verified Buyer",
+        "Top Rated"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-scraped-0007",
+      "rating": 5,
+      "text": "Someone call the fire dept. This seller is on fire. Great Product and just as described with lightning fast delivery. I really love these products and sleep with the FIR mat each night...to help with detox and health. Never out that fire out!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Pain Relief & Sleep",
+        "Verified Buyer",
+        "Like-New Condition",
+        "Matched to Models",
+        "Top Rated",
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-scraped-0008",
+      "rating": 5,
+      "text": "Thank you for this beautiful product! Item was like new : Manuel and packaged beautifully. Item arrived expeditiously.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Verified Buyer",
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-scraped-0009",
+      "rating": 5,
+      "text": "As described. Well packaged. Timely delivery. Great price! Thank you!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Verified Buyer",
+        "Top Rated"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-scraped-0010",
+      "rating": 5,
+      "text": "Quick feedback, shipped quickly and product as advertised.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Pain Relief & Sleep",
+        "Verified Buyer",
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-scraped-0011",
+      "rating": 5,
+      "text": "Thank you for fast shipping and great service.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer",
+        "Top Rated",
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-scraped-0012",
+      "rating": 5,
+      "text": "Amazing seller! Super fast shipping!A++++++",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer",
+        "Top Rated",
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-scraped-0013",
+      "rating": 5,
+      "text": "Thank you! The product is as promised.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-scraped-0014",
+      "rating": 5,
+      "text": "Superb seller!A++++*",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer",
+        "Top Rated"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false
+    },
+    {
+      "id": "ebay-outlet-0070",
+      "rating": 5,
+      "text": "Great condition, good price, and fastest shipping ever! Thank you.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": "Enjoy!",
+      "item_title": "HealthyLine TAJ Mat",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0071",
+      "rating": 5,
+      "text": "Good eBay merchant, Good comms. Rated 5 stars.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine AJT 8040",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0072",
+      "rating": 5,
+      "text": "It's a great mat! Got here fast and works great!!!! Love it!!!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer",
+        "Matched to Models"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine AJT 8040",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0073",
+      "rating": 5,
+      "text": "Great Mat...Great Deal...Great Experience...Thank You!!!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer",
+        "Matched to Models"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine AJT 8040",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0074",
+      "rating": 5,
+      "text": "Good.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": "Please enjoy!",
+      "item_title": "HealthyLine AJT 8040",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0075",
+      "rating": 5,
+      "text": "If I could afford it I would get a small one to take with me in the car. My only issue is that they are expensive, but not saying they aren't worth it.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine Mat",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0076",
+      "rating": 5,
+      "text": "In the evening I find my husband, who totally doesn't believe in energy healing or PEMF, relaxing on the mat.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer",
+        "Matched to Models",
+        "Pain Relief & Sleep"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine Mat",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0077",
+      "rating": 5,
+      "text": "Great product! I got a dog for the first time and the Pooper Scooper comes in handy. It's great if you don't want to bend over.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer",
+        "Matched to Models"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "Grass Jawz Scooper",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0078",
+      "rating": 5,
+      "text": "Very happy with purchase. Product arrived in perfect condition and earlier than expected. Will definitely buy from this seller again.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer",
+        "Like-New Condition"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0079",
+      "rating": 5,
+      "text": "Amazing product, amazing seller. Shipped fast and well packaged. Exactly as described. Would highly recommend.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer",
+        "Like-New Condition"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0080",
+      "rating": 5,
+      "text": "Thank you for the great product and fast shipping. Very professional seller. A+.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0081",
+      "rating": 5,
+      "text": "Love my new mat! It helps with my back pain and I sleep so much better now. Shipping was fast and the mat was in perfect condition. Thank you!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer",
+        "Matched to Models",
+        "Pain Relief & Sleep",
+        "Like-New Condition"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0082",
+      "rating": 5,
+      "text": "Thank you works great as described quick ship.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer",
+        "Like-New Condition"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0083",
+      "rating": 5,
+      "text": "I've purchased 2 other mats from this seller and it's always gone very well. This time I noticed that the picture they sent me before sending didn't match the original picture. The controller was different. I kind of went off on the seller thinking it was an old controller. Turns out it was a newer controller. Seller was kind to me despite me being a jerk. Package came fast.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Matched to Models",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": "Please enjoy!",
+      "item_title": "HealthyLine Mesh",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0084",
+      "rating": 5,
+      "text": "nice seller, smoth transaction, good quality, fast shipping.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0085",
+      "rating": 5,
+      "text": "A+++++++++++++++++ superb seller.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0086",
+      "rating": 5,
+      "text": "Quick to ship! Arrived unscathed!! Love it!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": "Please enjoy!",
+      "item_title": "HealthyLine Platinum",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0087",
+      "rating": 5,
+      "text": "This product is amazing! Most effective heating pad and best help for my chronic back pain that I have ever had!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Matched to Models",
+        "Verified Buyer",
+        "Pain Relief & Sleep"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine Inframat Pro",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0088",
+      "rating": 5,
+      "text": "Very nice! What a great seller! Offered me a really good deal too.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0089",
+      "rating": 5,
+      "text": "honest and caring.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0090",
+      "rating": 5,
+      "text": "Good communication, fast shipping, love the product so far.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0091",
+      "rating": 5,
+      "text": "work fine.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0092",
+      "rating": 5,
+      "text": "Thanks love it! Both arrived early on Tuesday and I'm trying it out now! Thank you…very happy with packing and packaging.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0093",
+      "rating": 5,
+      "text": "This mat was like new. It works great!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Matched to Models",
+        "Verified Buyer",
+        "Like-New Condition"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-outlet-0094",
+      "rating": 5,
+      "text": "Magical heating pad. It is very healing and works perfectly. I'm in love!!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Matched to Models",
+        "Verified Buyer",
+        "Pain Relief & Sleep"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": "HealthyLine TAO Pillow",
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0095",
+      "rating": 5,
+      "text": "Great seller! A+++++",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0096",
+      "rating": 5,
+      "text": "A++++ seller!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0097",
+      "rating": 5,
+      "text": "Unit is just link new! Great seller support, I called for info, then hung up to send an email instead. Before I finished the email, seller had called ME to answer my questions. Great deal on ebay too-",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0098",
+      "rating": 5,
+      "text": "Smooth transaction. Nice Biomat clone!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Matched to Models",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0099",
+      "rating": 5,
+      "text": "Exactly as described. Great communication and follow up. Highly recommended seller.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0100",
+      "rating": 5,
+      "text": "Quick ship- well packaged- like new-works as should- good price- Thank you..",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0101",
+      "rating": 5,
+      "text": "On time delivery. I had s problem with the controller and they have addressed it with no hesitation.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0102",
+      "rating": 5,
+      "text": "This is my second purchase from this seller.Great products at great prices! I am quite sure there will be more items purchased by me from this seller. Thank you!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0103",
+      "rating": 5,
+      "text": "Great price and condition, super fast shipping, would buy from this seller again",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0104",
+      "rating": 5,
+      "text": "This purchase didn't quite work out due to a delivery issue, but the company made it right and quickly, and I've had other orders from them shipped very promptly. I can recommend them without reservation.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0105",
+      "rating": 5,
+      "text": ". Well packaged and fast shipping. Thank you!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0106",
+      "rating": 5,
+      "text": "well described and received",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0107",
+      "rating": 5,
+      "text": "Quick shipping, Item arrived in good condition as described.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0108",
+      "rating": 5,
+      "text": "Arrived quickly and packaged well",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0109",
+      "rating": 5,
+      "text": "Item as described. Quick ship.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0110",
+      "rating": 5,
+      "text": "Highly recommend this seller!!! SUPER fast shipping and extremely helpful!!!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0111",
+      "rating": 5,
+      "text": "AAA++++ seller just as described will buy from again",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0112",
+      "rating": 5,
+      "text": "Excellent service. Product just as described",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0113",
+      "rating": 5,
+      "text": "Great seller and item. Fast shipping.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0114",
+      "rating": 5,
+      "text": "Fast shipping and item as described. Excellent quality product. Thank you!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0115",
+      "rating": 5,
+      "text": "Great quality and fast shipping amazing amd so grateful.. amazing seller .",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0116",
+      "rating": 5,
+      "text": "Item was received in great condition. Works great! Great experience with this seller.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0117",
+      "rating": 5,
+      "text": "Amazing product that was shipped so fast. I would love to work with this buyer again.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0118",
+      "rating": 5,
+      "text": "Great customer regarding shipping. Fast delivery",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0119",
+      "rating": 5,
+      "text": "Excellent condition perfect shipping thank you!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0120",
+      "rating": 5,
+      "text": "Incredible! Super fast delivery! Thank you! Product is great!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0121",
+      "rating": 5,
+      "text": "Excellent delivery response time.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0122",
+      "rating": 5,
+      "text": "Great product, arrived quicky. Very Happy!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0123",
+      "rating": 5,
+      "text": "Fast response and already love my purchase.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0124",
+      "rating": 5,
+      "text": "All good, quick shipping- Thanks!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0125",
+      "rating": 5,
+      "text": "As described. Thank you!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0126",
+      "rating": 5,
+      "text": "Exactly as advertised.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0127",
+      "rating": 5,
+      "text": "Excellent customer service highly recommended.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0128",
+      "rating": 5,
+      "text": "♥ .:* (¯´·.¸(¯´·.¸( ❀ Amazing eBayer - Thank You ❀ )¸.·´¯)¸.·´¯) *:. ♥",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0129",
+      "rating": 5,
+      "text": "Perfect transaction in every way.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0130",
+      "rating": 5,
+      "text": "Excellent transaction in all respects- Thanks!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0131",
+      "rating": 5,
+      "text": "Perfect transaction again thank you.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0132",
+      "rating": 5,
+      "text": "Great item great price, quick shipping!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0133",
+      "rating": 5,
+      "text": "Great mat! Always great service. Highly recommended A+++",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Matched to Models",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0134",
+      "rating": 5,
+      "text": "Seems to work great. Fast shipping. Thank you.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0135",
+      "rating": 5,
+      "text": "Received product quickly, and it works well",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0136",
+      "rating": 5,
+      "text": "Omg love this mat so much! Received it so fast .",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Matched to Models",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0137",
+      "rating": 5,
+      "text": "Excellent! Mat is perfect. Shipping was quick and secure. Highly recommended. Thank you.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Matched to Models",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0138",
+      "rating": 5,
+      "text": "Great product, great seller, highly recommend.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0139",
+      "rating": 5,
+      "text": "awesome seller. amazing product",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0140",
+      "rating": 5,
+      "text": "Great product great seller!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0141",
+      "rating": 5,
+      "text": "Excellent mat excellent service highly recommended.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Matched to Models",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0142",
+      "rating": 5,
+      "text": "good price, great product -- thank you!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0143",
+      "rating": 5,
+      "text": "positive",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0144",
+      "rating": 5,
+      "text": "Original mat ordered was out of stock, seller quickly offered a more superior mat as a replacement.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Matched to Models",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0145",
+      "rating": 5,
+      "text": "I was away for a month so sorry for the delay in feedback. The mat is working very well. Customer service top notch and accessible. I have been looking for a mat I could afford and this item being discontinued is a perfect fit for me. I didn't know much about PEMF, but it's another level of relaxing. I've had terrible insomnia and it has helped me get much more sleep!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Pain Relief & Sleep",
+        "Matched to Models",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0146",
+      "rating": 5,
+      "text": "Awesome seller! Love this product it is healing my pain",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Pain Relief & Sleep",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0147",
+      "rating": 5,
+      "text": "Great quality. I love my purchase. It's such a great price compared to other similar products. I wasn't expecting much for the price and it's good quality and well made. It looks brand new in a box with a carry case. It says used but it didn't looked used at all. I'm very happy with the product.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0148",
+      "rating": 5,
+      "text": "It's a great mat ! Got here fast and works great!!!! Love it !!!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Matched to Models",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0149",
+      "rating": 5,
+      "text": "fast delivery, very good product. It is big enough for me and my cat.love the product",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Fast Shipping",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0150",
+      "rating": 5,
+      "text": "The absolute lowest price I saw online? Huge win!\" The size and quality of the Jade is what caught my attention when I opened the box. I've been using this mat for a few weeks now and I'm really happy with it. It's very comfortable to lay on and the heat therapy is really relaxing. I've noticed that my muscles feel looser and more relaxed after using the mat. I'm able to sleep longer and deeper. I also like the negative ion function, which helps to improve my mood and energy levels.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Pain Relief & Sleep",
+        "Matched to Models",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-manual-0151",
+      "rating": 5,
+      "text": "This was a \"used\" product in perfectly new-like condition as reviewed by seller. I'm very satisfied...works perfectly and after 6 hours of use, the bottom of my feet feel much better.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Like-New Condition",
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0152",
+      "rating": 5,
+      "text": "jt mesh mat is working well , full body chronic pain condition with fibro and muscular/bone degenerative condition as well as sciatica/scoliosis etc .... and i use the healthyline pad 8-10 hours everyday at 145* , has a penetrating heat without the \"burn\" or sting , helps with my restless leg , helps keep legs and lower back loose for when i have to actually leave the house , the releif is real and this heating pad is a must have for anyone who relates to all that",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer",
+        "Pain Relief & Sleep",
+        "Matched to Models"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0153",
+      "rating": 5,
+      "text": "Works wonderfully!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0154",
+      "rating": 5,
+      "text": "Helps with keeping pain in check🤨🤨🤨",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer",
+        "Pain Relief & Sleep"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0155",
+      "rating": 5,
+      "text": "Great deal and product!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0156",
+      "rating": 5,
+      "text": "Good purchase,",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0157",
+      "rating": 5,
+      "text": "I LOVE my mat!!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer",
+        "Matched to Models"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0158",
+      "rating": 5,
+      "text": "Works & looks good",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0159",
+      "rating": 5,
+      "text": "Good experience.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0160",
+      "rating": 5,
+      "text": "I love my new mat, I hope to buy more items in the future.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer",
+        "Matched to Models"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0161",
+      "rating": 5,
+      "text": "Love it!!! It doesn't have the new smell as I was hoping and it works perfectly! Thank you!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0162",
+      "rating": 5,
+      "text": "A+ thank you",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0163",
+      "rating": 5,
+      "text": "Love it!!! Thank you!!!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0164",
+      "rating": 5,
+      "text": "Excellent product and aervice",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0165",
+      "rating": 5,
+      "text": "Works very well.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0166",
+      "rating": 5,
+      "text": "I absolutely love this product and I'm super thrilled to have it, thank you thank you thank you!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0167",
+      "rating": 5,
+      "text": "Very Happy! Thank you!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0168",
+      "rating": 5,
+      "text": "Good thanks",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0169",
+      "rating": 5,
+      "text": "Love it thank you so much!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0170",
+      "rating": 5,
+      "text": "Excellent!! A1!!!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0171",
+      "rating": 5,
+      "text": "Great awesome",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0172",
+      "rating": 5,
+      "text": "Awesome quality!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0173",
+      "rating": 5,
+      "text": "This is a great product and exactly what I needed.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0174",
+      "rating": 5,
+      "text": "nameste' I love love it",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0175",
+      "rating": 5,
+      "text": "Super fadt dhipment. Great product.",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer",
+        "Fast Shipping"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0176",
+      "rating": 5,
+      "text": "we love it",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0177",
+      "rating": 5,
+      "text": "great product and condition",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0178",
+      "rating": 5,
+      "text": "So far I am liking this thing!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    },
+    {
+      "id": "ebay-page2-0179",
+      "rating": 5,
+      "text": "Love it! Thank you!",
+      "buyer": "Verified eBay Buyer",
+      "verified": true,
+      "period": "Verified Purchase",
+      "tags": [
+        "Verified Buyer"
+      ],
+      "photo": null,
+      "seller_reply": null,
+      "item_title": null,
+      "product": null,
+      "featured": false,
+      "source": "eBay"
+    }
+  ]
+}

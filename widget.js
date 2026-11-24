@@ -76,7 +76,11 @@
   }
 
   const EBAY_LOGO_SVG = `
-    <span class="reviews-logo" style="font-weight:700;font-size:24px;color:#3b626b;">Reviews</span>`;
+    <svg class="ebay-logo" viewBox="0 0 120 48" aria-label="eBay" role="img">
+      <text x="2" y="37" font-family="'Poppins', 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="38" letter-spacing="-1.8">
+        <tspan fill="#e53238">e</tspan><tspan fill="#0064d2">b</tspan><tspan fill="#f5af02">a</tspan><tspan fill="#86b817">y</tspan>
+      </text>
+    </svg>`;
 
   const STAR_SVG = `<svg viewBox="0 0 20 20" class="star-icon" aria-hidden="true"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.17 3.604a1 1 0 00.95.69h3.789c.969 0 1.371 1.24.588 1.81l-3.065 2.227a1 1 0 00-.364 1.118l1.17 3.604c.3.921-.755 1.688-1.54 1.118l-3.065-2.227a1 1 0 00-1.175 0l-3.065 2.227c-.784.57-1.838-.197-1.539-1.118l1.17-3.604a1 1 0 00-.364-1.118L2.56 9.031c-.783-.57-.38-1.81.588-1.81h3.789a1 1 0 00.95-.69l1.162-3.604z"/></svg>`;
 
@@ -1259,7 +1263,7 @@
     backdrop.className = "modal-backdrop";
 
     const photoBlock = review.photo
-      ? `<img class="detail-photo" src="${escapeHtml(review.photo)}" alt="Verified customer photo" onerror="this.style.display='none'"/>`
+      ? `<img class="detail-photo" src="${escapeHtml(review.photo)}" alt="Verified eBay buyer photo" onerror="this.style.display='none'"/>`
       : "";
 
     const replyBlock = review.seller_reply
@@ -1289,7 +1293,7 @@
         <div style="display:flex;align-items:center;justify-content:space-between;gap:10px;">
           <div style="display:flex;align-items:center;gap:10px;">
             ${renderStars(review.rating || 5)}
-            <span class="verified-pill">${VERIFIED_PLUS_SVG} Verified Purchase</span>
+            <span class="verified-pill">${VERIFIED_PLUS_SVG} Verified eBay Purchase</span>
           </div>
           <button type="button" class="close-modal-btn" style="position:static;margin:0;" aria-label="Close">&times;</button>
         </div>
@@ -1303,6 +1307,9 @@
           <span style="font-size:12.5px;color:#5d676e;">
             Buyer: <strong style="color:#182026;">${escapeHtml(review.buyer || "Verified Buyer")}</strong> &bull; ${escapeHtml(review.period || "Verified Purchase")}
           </span>
+          <a class="ghost-btn" href="${escapeHtml(store.ebay_profile_url)}" target="_blank" rel="noopener noreferrer">
+            Verify on eBay ${EXTERNAL_ICON}
+          </a>
         </div>
       </div>
     `;
@@ -1333,9 +1340,12 @@
     head.className = "modal-head";
     head.innerHTML = `
       <div class="modal-head-main">
-        <span class="modal-head-title">All ${total} Verified Reviews</span>
+        <span class="modal-head-title">All ${total} Verified eBay Reviews</span>
         <span class="modal-head-sub">100% Positive &bull; ${(store.feedback_score || 1305).toLocaleString()} Score &bull; Top-Rated since 2013</span>
       </div>
+      <a class="ghost-btn" href="${escapeHtml(store.ebay_profile_url)}" target="_blank" rel="noopener noreferrer">
+        Verify on eBay ${EXTERNAL_ICON}
+      </a>
     `;
 
     box.appendChild(closeBtn);
@@ -1402,7 +1412,7 @@
         <div style="display:flex;flex-direction:column;gap:10px;">
           <div class="card-top">
             ${renderStars(r.rating || 5)}
-            <span class="verified-pill">${VERIFIED_PLUS_SVG} Verified Purchase</span>
+            <span class="verified-pill">${VERIFIED_PLUS_SVG} Verified eBay</span>
           </div>
           <p class="${bodyCls}">${highlightText(r.text, query)}</p>
           ${readMoreHtml}
@@ -1471,31 +1481,26 @@
     }
 
     const categories = [
-      { key: "ALL", label: "All Reviews", count: allReviews.length },
+      { key: "ALL", label: "All Stories", count: allReviews.length },
       {
-        key: "TAJ",
-        label: "TAJ Series",
-        count: allReviews.filter((r) => r.product && r.product.name && r.product.name.includes("TAJ")).length
+        key: "Pain Relief & Sleep",
+        label: "Pain Relief & Sleep",
+        count: allReviews.filter((r) => (r.tags || []).includes("Pain Relief & Sleep")).length
       },
       {
-        key: "Pillow",
-        label: "Pillow Series",
-        count: allReviews.filter((r) => r.product && r.product.name && r.product.name.includes("Pillow")).length
+        key: "Like-New Condition",
+        label: "Like-New Condition",
+        count: allReviews.filter((r) => (r.tags || []).includes("Like-New Condition")).length
       },
       {
-        key: "Platinum",
-        label: "Platinum Series",
-        count: allReviews.filter((r) => r.product && r.product.name && r.product.name.includes("Platinum")).length
+        key: "Fast Shipping",
+        label: "Fast Shipping",
+        count: allReviews.filter((r) => (r.tags || []).includes("Fast Shipping")).length
       },
       {
-        key: "Mesh",
-        label: "Mesh Series",
-        count: allReviews.filter((r) => r.product && r.product.name && r.product.name.includes("Mesh")).length
-      },
-      {
-        key: "Rainbow",
-        label: "Rainbow Series",
-        count: allReviews.filter((r) => r.product && r.product.name && r.product.name.includes("Rainbow")).length
+        key: "PRODUCT_MATCHED",
+        label: "Matched to Models",
+        count: allReviews.filter((r) => !!r.product).length
       }
     ];
 
@@ -1506,12 +1511,12 @@
     container.innerHTML = `
       <div class="carousel-top">
         <div class="carousel-brand-summary">
-          <span style="display:inline-flex;align-items:center;">
+          <a href="${escapeHtml(store.ebay_profile_url)}" target="_blank" rel="noopener noreferrer" title="Official HealthyLine Outlet eBay Feedback Profile" style="display:inline-flex;align-items:center;">
             ${EBAY_LOGO_SVG}
-          </span>
-          <span class="trs-pill">
+          </a>
+          <a class="trs-pill" href="${escapeHtml(store.ebay_profile_url)}" target="_blank" rel="noopener noreferrer">
             ${TOP_RATED_SVG} Top-Rated Seller
-          </span>
+          </a>
           <div class="carousel-rating-cluster">
             ${renderStars(5)}
             <strong>100% Positive</strong>
@@ -1526,10 +1531,24 @@
           <button type="button" class="ghost-btn open-all-btn">
             Search All Reviews (${allReviews.length})
           </button>
+          <a class="verify-btn" href="${escapeHtml(store.ebay_profile_url)}" target="_blank" rel="noopener noreferrer">
+            Verify on eBay ${EXTERNAL_ICON}
+          </a>
         </div>
       </div>
 
       <div class="carousel-subbar">
+        <div class="pills-scroll" role="tablist">
+          ${categories
+            .map(
+              (c) => `
+            <button type="button" class="filter-pill ${c.key === "ALL" ? "active" : ""}" data-tag="${escapeHtml(c.key)}">
+              ${escapeHtml(c.label)} <span class="pill-count">${c.count}</span>
+            </button>`
+            )
+            .join("")}
+        </div>
+
         <div class="carousel-nav-group">
           <button type="button" class="nav-btn prev-btn" aria-label="Previous reviews">&lsaquo;</button>
           <button type="button" class="nav-btn next-btn" aria-label="Next reviews">&rsaquo;</button>
@@ -1538,7 +1557,7 @@
 
       <div class="carousel-viewport">
         <div class="edge-fade left" aria-hidden="true"></div>
-        <div class="carousel-track" tabindex="0" aria-label="Verified customer reviews slider"></div>
+        <div class="carousel-track" tabindex="0" aria-label="Verified eBay buyer reviews slider"></div>
         <div class="edge-fade right visible" aria-hidden="true"></div>
       </div>
 
@@ -1549,6 +1568,9 @@
         <div class="carousel-counter">
           <span class="counter-label">Click any review card to read in full</span>
           <span class="slide-counter"></span>
+          <a class="all-ebay-link" href="${escapeHtml(store.ebay_profile_url)}" target="_blank" rel="noopener noreferrer">
+            See all ${(store.total_seller_reviews || 1077).toLocaleString()} ratings on eBay &rarr;
+          </a>
         </div>
       </div>
     `;
@@ -1564,9 +1586,9 @@
 
     function getFilteredList() {
       const list = allReviews.filter((r) => {
-        if (currentTag === "ALL") return true;
-        // Filter by product series
-        return r.product && r.product.name && r.product.name.includes(currentTag);
+        if (currentTag === "PRODUCT_MATCHED") return !!r.product;
+        if (currentTag !== "ALL") return (r.tags || []).includes(currentTag);
+        return true;
       });
       return opts.limit ? list.slice(0, opts.limit) : list;
     }
@@ -1724,29 +1746,29 @@
     const categories = [
       { key: "ALL", label: "All Reviews", count: allReviews.length },
       {
-        key: "TAJ",
-        label: "TAJ Series",
-        count: allReviews.filter((r) => r.product && r.product.name && r.product.name.includes("TAJ")).length
+        key: "Pain Relief & Sleep",
+        label: "Pain Relief & Sleep",
+        count: allReviews.filter((r) => (r.tags || []).includes("Pain Relief & Sleep")).length
       },
       {
-        key: "Pillow",
-        label: "Pillow Series",
-        count: allReviews.filter((r) => r.product && r.product.name && r.product.name.includes("Pillow")).length
+        key: "Like-New Condition",
+        label: "Like-New Condition",
+        count: allReviews.filter((r) => (r.tags || []).includes("Like-New Condition")).length
       },
       {
-        key: "Platinum",
-        label: "Platinum Series",
-        count: allReviews.filter((r) => r.product && r.product.name && r.product.name.includes("Platinum")).length
+        key: "Fast Shipping",
+        label: "Fast Shipping",
+        count: allReviews.filter((r) => (r.tags || []).includes("Fast Shipping")).length
       },
       {
-        key: "Mesh",
-        label: "Mesh Series",
-        count: allReviews.filter((r) => r.product && r.product.name && r.product.name.includes("Mesh")).length
+        key: "Customer Support",
+        label: "Customer Support",
+        count: allReviews.filter((r) => (r.tags || []).includes("Customer Support")).length
       },
       {
-        key: "Rainbow",
-        label: "Rainbow Series",
-        count: allReviews.filter((r) => r.product && r.product.name && r.product.name.includes("Rainbow")).length
+        key: "PRODUCT_MATCHED",
+        label: "Matched to Models",
+        count: allReviews.filter((r) => !!r.product).length
       }
     ];
 
@@ -1803,6 +1825,16 @@
       </div>
 
       <div class="controls-bar">
+        <div class="pills-scroll" role="tablist">
+          ${categories
+            .map(
+              (c) => `
+            <button type="button" class="filter-pill ${c.key === "ALL" ? "active" : ""}" data-tag="${escapeHtml(c.key)}">
+              ${escapeHtml(c.label)} <span class="pill-count">${c.count}</span>
+            </button>`
+            )
+            .join("")}
+        </div>
         <div class="search-box">
           <svg class="search-icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2">
             <circle cx="8.5" cy="8.5" r="5.5"/><path d="M13 13l4 4" stroke-linecap="round"/>
@@ -1938,7 +1970,7 @@
 
     const loader = document.createElement("div");
     loader.style.cssText = "padding:24px;text-align:center;color:#5d676e;font-size:13.5px;";
-    loader.textContent = "Loading verified reviews...";
+    loader.textContent = "Loading verified eBay reviews...";
     shadow.appendChild(loader);
 
     fetchReviewsData(customSrc)
@@ -1956,7 +1988,7 @@
         }
       })
       .catch((err) => {
-        loader.innerHTML = `<span style="color:#3b626b;font-weight:600;">1,077+ Verified Reviews · 100% Positive</span>`;
+        loader.innerHTML = `<a href="https://www.ebay.com/fdbk/feedback_profile/healthylineoutlet" target="_blank" rel="noopener" style="color:#3b626b;font-weight:600;text-decoration:underline;">View HealthyLine Outlet's 1,077+ Verified Reviews (100% Positive) on eBay &rarr;</a>`;
         console.warn("[HLO eBay Widget] Failed to load reviews JSON:", err);
       });
   }

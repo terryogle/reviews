@@ -75,8 +75,8 @@
     return cachedDataPromise;
   }
 
-  const EBAY_LOGO_SVG = `
-    <span class="reviews-logo" style="font-weight:700;font-size:24px;color:#3b626b;">Reviews</span>`;
+  const BRAND_MARK = `<span class="reviews-wordmark" style="font-weight:700;font-size:22px;letter-spacing:-0.4px;color:#3b626b;">Reviews</span>`;
+  const BRAND_MARK_SM = `<span class="reviews-wordmark" style="font-weight:700;font-size:15px;letter-spacing:-0.2px;color:#3b626b;">Reviews</span>`;
 
   const STAR_SVG = `<svg viewBox="0 0 20 20" class="star-icon" aria-hidden="true"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.17 3.604a1 1 0 00.95.69h3.789c.969 0 1.371 1.24.588 1.81l-3.065 2.227a1 1 0 00-.364 1.118l1.17 3.604c.3.921-.755 1.688-1.54 1.118l-3.065-2.227a1 1 0 00-1.175 0l-3.065 2.227c-.784.57-1.838-.197-1.539-1.118l1.17-3.604a1 1 0 00-.364-1.118L2.56 9.031c-.783-.57-.38-1.81.588-1.81h3.789a1 1 0 00.95-.69l1.162-3.604z"/></svg>`;
 
@@ -1507,7 +1507,7 @@
       <div class="carousel-top">
         <div class="carousel-brand-summary">
           <span style="display:inline-flex;align-items:center;">
-            ${EBAY_LOGO_SVG}
+            ${BRAND_MARK}
           </span>
           <span class="trs-pill">
             ${TOP_RATED_SVG} Top-Rated Seller
@@ -1758,7 +1758,7 @@
       <div class="trust-banner">
         <div class="trust-left">
           <div class="brand-eyebrow">
-            ${EBAY_LOGO_SVG}
+            ${BRAND_MARK}
             <span class="trs-pill">${TOP_RATED_SVG} Top-Rated Seller</span>
             <span class="since-tag">Member since ${escapeHtml(store.member_since || "Feb 2013")}</span>
           </div>
@@ -1901,7 +1901,7 @@
     btn.type = "button";
     btn.className = "compact-badge";
     btn.innerHTML = `
-      ${EBAY_LOGO_SVG}
+      ${BRAND_MARK_SM}
       <span class="badge-divider"></span>
       <span class="badge-metrics">
         ${renderStars(5)}

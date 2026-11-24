@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>eBay Reviews Widget — HealthyLine Outlet</title>
+<title>Verified Reviews — HealthyLine Outlet</title>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" />
@@ -18,46 +18,38 @@
     background: #3b626b;
     color: #fff;
     padding: 24px 28px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
   }
-  .page-top h1 {
-    margin: 0 0 6px 0;
-    font-size: 22px;
-    font-weight: 700;
-    letter-spacing: -0.02em;
-  }
-  .page-top p {
-    margin: 0;
-    font-size: 14px;
-    opacity: .9;
-  }
-  .wrap {
-    max-width: 1240px;
-    margin: 0 auto;
-    padding: 32px 20px;
-  }
-  .badge {
-    display: inline-block;
-    background: #fff;
-    color: #3b626b;
-    padding: 4px 12px;
-    border-radius: 20px;
-    font-size: 12px;
-    font-weight: 600;
-    margin-left: 10px;
-    border: 1px solid rgba(255,255,255,0.3);
-  }
+  .page-top h1 { margin: 0 0 6px 0; font-size: 22px; font-weight: 700; letter-spacing: -0.02em; }
+  .page-top p { margin: 0; font-size: 14px; opacity: .9; }
+  .wrap { max-width: 1240px; margin: 0 auto; padding: 32px 20px; }
+  .divider { max-width: 1240px; margin: 34px auto; height: 1px; background: #dce8e6; }
+  .section-label { max-width: 1240px; margin: 0 auto; padding: 0 20px; font-size: 13px; font-weight: 600; color: #5d676e; text-transform: uppercase; letter-spacing: .08em; }
 </style>
 </head>
 <body>
 
 <div class="page-top">
-  <h1>HealthyLine Outlet <span class="badge">180 Reviews</span></h1>
-  <p>Verified eBay Reviews · 100% Positive · 1,305 Score · Top-Rated Seller</p>
+  <h1>HealthyLine Outlet</h1>
+  <p>Verified reviews &middot; 100% Positive &middot; 1,305 Score &middot; Top-Rated Seller</p>
 </div>
 
+<p class="section-label" style="margin-top:28px;">Layout 1 — carousel (главная страница)</p>
 <div class="wrap">
-  <div class="hlo-ebay-reviews" data-layout="carousel" data-src="data/reviews.json"></div>
+  <div class="hlo-ebay-reviews" data-layout="carousel" data-limit="12"></div>
+</div>
+
+<div class="divider"></div>
+
+<p class="section-label">Layout 2 — showcase (страница Reviews)</p>
+<div class="wrap">
+  <div class="hlo-ebay-reviews" data-layout="showcase" data-limit="9"></div>
+</div>
+
+<div class="divider"></div>
+
+<p class="section-label">Layout 3 — badge (карточка товара)</p>
+<div class="wrap">
+  <div class="hlo-ebay-reviews" data-layout="badge" data-product="auto"></div>
 </div>
 
 <script src="widget.js" defer></script>
